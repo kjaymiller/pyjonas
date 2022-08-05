@@ -1,0 +1,11 @@
+name: tetris
+channels:
+- conda-forge
+dependencies:
+- notebook
+- numpy
+- scipy
+- pandas
+- matplotlib
+- opencv
+- ipympl
