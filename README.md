@@ -11,3 +11,4 @@ Classic Tetris Analysis Tool
 - [Real-time inferencing FPGA hardware](http://www.pynq.io/)
 - [TetrisAI](https://github.com/dguostanford/Machine-Learning-Tetris-)
 - [Deep Q-learning for playing Tetris](https://pythonawesome.com/deep-q-learning-for-playing-tetris-game/)
+- [Example of coaching Tetris](https://www.youtube.com/playlist?list=PLjvvUIYe8rKW3HDvoRiBohQdfBW6J3BXj)
